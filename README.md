@@ -29,11 +29,6 @@ Run the below scripts in any of the clients either in pgAdmin4 or in DBeaver
 * Right Click on the application, select the <strong>Run As</strong> option, and then select <strong>Spring Boot App</strong>
 * The application will start in the port <strong>7125</strong>
 * Open the Postman and test the REST Endpoints
-* But in case of <strong>IntelliJ</strong> you click on File -> Open option and import the project.
-* Once imported click the Maven Perspective available at the top right corner of IntelliJ.
-* Run the <code>mvn clean install</code> command by setting the JDK to Java 17 and Maven as installed locally in your machine.
-* After that click on the New/Edit Configurations at the top right corner of IntelliJ.
-* It will open a pop-up box select the main class of your application, provide the proper JDK as Java 17 and click on Apply button and then run it. It will run as the Spring Boot Application.
 
 ### Testing using Postman
 <ol>
