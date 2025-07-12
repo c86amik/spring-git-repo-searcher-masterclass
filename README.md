@@ -37,8 +37,8 @@ Run the below scripts in any of the clients either in pgAdmin4 or in DBeaver
 
 ### Testing using Postman
 <ol>
-<li><strong>Search GitHub Repositories</strong> - http://localhost:7125/api/github/search</li>
-<li><strong>Retrieve Stored Results</strong> - http://localhost:7125/api/github/repositories?language=Java&minStars=0&sort=stars</li>
+<li><strong>Search GitHub Repositories</strong> - <strong>POST API</strong> - http://localhost:7125/api/github/search</li>
+<li><strong>Retrieve Stored Results</strong> - <strong>GET API</strong> - http://localhost:7125/api/github/repositories?language=Java&minStars=0&sort=stars</li>
 </ol>
 
 #### Dummy JSON object
