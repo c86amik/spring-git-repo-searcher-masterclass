@@ -24,7 +24,7 @@ Run the below scripts in any of the clients either in pgAdmin4 or in DBeaver
 * Open Git Bash or even you can open Command Prompt (if you are using Windows) or Terminal (if you are using MAC) in your machine
 * Clone the application from github.com as   
   <code>git clone https://github.com/c86amik/spring-git-repo-searcher-masterclass.git</code>
-* Open <strong>InelliJ</strong> and import the application as <strong>Maven</strong> project
+* Open <strong>IntelliJ</strong> and import the application as <strong>Maven</strong> project
 * After the application got successfully imported in <strong>IntelliJ</strong>
 * Right Click on the application, select the <strong>Run As</strong> option, and then select <strong>Spring Boot App</strong>
 * The application will start in the port <strong>7125</strong>
