@@ -1,1 +1,0 @@
-DROP TABLE flux.report_process_tracker;

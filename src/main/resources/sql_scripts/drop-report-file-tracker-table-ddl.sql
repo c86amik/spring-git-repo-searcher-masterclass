@@ -1,1 +1,0 @@
-DROP TABLE flux.report_file_tracker;
